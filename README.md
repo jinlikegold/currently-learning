@@ -7,3 +7,6 @@ Learned about method for writing HTML within JS, template strings, deploying the
 
 ### 9/23: 
 Learning truthy & falsy values in JS, to build in conditionals for the extension's localStorage. This enables the extension to store & display data even across browser refreshes.
+
+### 9/27:
+Refreshed CSS styling knowledge, creating a delete button that clears out stored data as well as the DOM, learned to refactor code! Using parameters and arguments with functions to make them dynamic & reusable.
