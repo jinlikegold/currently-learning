@@ -10,3 +10,6 @@ Learning truthy & falsy values in JS, to build in conditionals for the extension
 
 ### 9/27:
 Refreshed CSS styling knowledge, creating a delete button that clears out stored data as well as the DOM, learned to refactor code! Using parameters and arguments with functions to make them dynamic & reusable.
+
+### 9/28:
+Starting to work with an API! First reviewing calling data points from within object key-value pairs. Then learned how to look up and use a Chrome API to access data from the current tab, so as to pull it into the app. App is now complete, ready to be deployed.
