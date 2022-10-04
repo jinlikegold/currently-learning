@@ -15,4 +15,4 @@ Refreshed CSS styling knowledge, creating a delete button that clears out stored
 Starting to work with an API! First reviewing calling data points from within object key-value pairs. Then learned how to look up and use a Chrome API to access data from the current tab, so as to pull it into the app. App is now complete, ready to be deployed.
 
 ### 10/3: 
-Reviewing learned Javascript principles from the Chrome extension project via a series of mini challenges.
+Reviewing learned Javascript principles from the Chrome extension project via a series of mini challenges. Wrote a function for generating images based on external data, and a dynamic function for generating a sentence from passed in strings and arrays. 
