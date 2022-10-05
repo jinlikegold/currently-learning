@@ -19,3 +19,6 @@ Reviewing learned Javascript principles from the Chrome extension project via a 
 
 ### 10/4:
 Built a unit converter solo project using what I've learned so far! See unit-converter repo for more: https://github.com/jinlikegold/unit-converter
+
+### 10/5:
+Working on a personalized Emoji app from the Scrimba module, involving a for loop, input fields, and arrays. 
