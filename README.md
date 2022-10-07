@@ -22,3 +22,6 @@ Built a unit converter solo project using what I've learned so far! See unit-con
 
 ### 10/5:
 Working on a personalized Emoji app from the Scrimba module, involving a for loop, input fields, and arrays. 
+
+### 10/6:
+Completed Emoji app, now working to add new features, refactor some of the code, and modify the design. 
