@@ -25,3 +25,5 @@ Working on a personalized Emoji app from the Scrimba module, involving a for loo
 
 ### 10/6:
 Completed Emoji app, now working to add new features, refactor some of the code, and modify the design. 
+
+### October 2022: Started internship as a front-end web developer! Most of what I'm coding is within the Squarespace CMS, so activity on here will be minimal for the next 10 weeks aside from when I am doing coding lessons from Scrimba.
